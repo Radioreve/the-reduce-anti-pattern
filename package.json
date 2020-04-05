@@ -1,0 +1,17 @@
+{
+  "name": "reduce-break",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionnal.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.2.2",
+    "prettier": "1.19.1"
+  }
+}
